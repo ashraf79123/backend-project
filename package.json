@@ -7,7 +7,12 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+  "name": "backend-project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+}
   },
   "dependencies": {
     "body-parser": "^2.2.0",
